@@ -1,0 +1,7 @@
+C:\Users\Айрат\source\repos\AISD\AISD\bin\Debug\AISD.exe.config
+C:\Users\Айрат\source\repos\AISD\AISD\bin\Debug\AISD.exe
+C:\Users\Айрат\source\repos\AISD\AISD\bin\Debug\AISD.pdb
+C:\Users\Айрат\source\repos\AISD\AISD\obj\Debug\AISD.csproj.AssemblyReference.cache
+C:\Users\Айрат\source\repos\AISD\AISD\obj\Debug\AISD.csproj.CoreCompileInputs.cache
+C:\Users\Айрат\source\repos\AISD\AISD\obj\Debug\AISD.exe
+C:\Users\Айрат\source\repos\AISD\AISD\obj\Debug\AISD.pdb
