@@ -55,14 +55,14 @@ namespace AISD
             Console.WriteLine();
 
             List<int> numbers = new List<int> { 3, 30, 34, 5, 9 };
-            string result = LargestNumber(numbers);
-            Console.WriteLine(result);
+            string largestnum = LargestNumber(numbers);
+            Console.WriteLine(largestnum);
         }
         public static string LargestNumber(List<int> nums)
         {
-            List<string> strs = nums.Select(n => n.ToString()).ToList();
-            strs.Sort((a, b) => (b + a).CompareTo(a + b));
-            return string.Concat(strs);
+            List<string> strings = nums.Select(n => n.ToString()).ToList();
+            strings.Sort((a, b) => (b + a).CompareTo(a + b));
+            return string.Concat(strings);
         }
     }
 }
